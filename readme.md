@@ -14,7 +14,7 @@ This script orchestrates the flow from XML and action files to CSV processing, m
 
 #### Step-by-Step Code:
 
-1. **Input Directory Setup**: Directories for XML, actions, and output files are defined, and output folders are created.
+1. **Input Directory Setup**: Directories for XML, actions, and output files are defined, and output folders are created. These directories need to be updated to the specific, correct directories.
 
 ```python
 xml_dir = '/home/user/VisionRD_COMP/xml'
